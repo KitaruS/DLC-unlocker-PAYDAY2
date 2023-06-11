@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @KitaruS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KitaruS/KitaruS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Привет, я @KitaruS
+- 👀 Это длс анлокер 
+- ❤️ Перед установкой анлокера установите SuperBLT с сайта https://superblt.znix.xyz/
+- 🌱 Установка проста надо просто прекинтуь в папку mods в корневой папке игры.
+- 💞️ В архиве две папки под разные версии игры Стим и Epic
